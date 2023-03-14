@@ -1,0 +1,3 @@
+[submodule "assets/uikit"]
+	path = themes/sovbb-theme
+	url = https://github.com/sovbb/sovbb-theme.git

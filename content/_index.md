@@ -41,11 +41,9 @@ ressourcenintensiv. Sowohl die Bereitstellung genügender zeitlicher Ressourcen 
 und Organisationen im Kanton Solothurn bereits heute eine grosse Herausforderung dar.
 Ohne entsprechende Interventionen wird es für die Sozialregionen im Kanton Solothurn auch weiterhin
 äusserst schwierig bleiben, geeignetes Fachpersonal zu rekrutieren und dieses auch über längere Zeit im
-Beruf halten zu können. Leidtragende sind am Ende immer die jeweils betroffenen Kinder und Erwachse-
-nen, welche die benötigten Unterstützungsleistungen nicht im notwendigen Umfang oder in erforderlicher
+Beruf halten zu können. Leidtragende sind am Ende immer die jeweils betroffenen Kinder und Erwachsenen, welche die benötigten Unterstützungsleistungen nicht im notwendigen Umfang oder in erforderlicher
 Qualität erhalten und unter den häufigen Wechseln der persönlichen Ansprechpersonen leiden. Die
-heutige hohe Fluktuation von Berufsbeistandspersonen schadet folglich der Qualitätssicherung und –
-Entwicklung und ist zudem mit entsprechenden Folgekosten verbunden. Mit einer ausreichenden Alimentierung, beispielsweise einer Fallbelastung nach KOKES-Richtlinien, und der Sicherstellung von fachlichen
+heutige hohe Fluktuation von Berufsbeistandspersonen schadet folglich der Qualitätssicherung und -Entwicklung und ist zudem mit entsprechenden Folgekosten verbunden. Mit einer ausreichenden Alimentierung, beispielsweise einer Fallbelastung nach KOKES-Richtlinien, und der Sicherstellung von fachlichen
 Mindeststandards könnte dieser aus fachlicher Sicht äusserst unbefriedigenden Situation entgegengewirkt werden.
 
 Die Organisation des Kindes- und Erwachsenenschutzes liegt in der Kompetenz der Kantone und die

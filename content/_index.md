@@ -22,10 +22,10 @@ Invite:
 Links:
     rsvp:
         text: Anmeldung
-        link: https://www.sovbb.ch/anmeldung/
+        link: https://forms.gle/h4qWESLTkDcc9PoX9
     membership:
         text: Mitglied werden
-        link: https://www.sovbb.ch/mitgliedschaft/
+        link: https://forms.gle/1vwztX83yZFRewZQA
 ---
 Mit der Einführung des neuen Kindes- und Erwachsenenschutzrechts (KESR) im Jahre 2013 wurden professionelle Kindes- und Erwachsenenschutzbehörden (KESB) errichtet mit dem Ziel einer Professionalisierung und Qualitätssteigerung des gesamten Fachgebiets. Professionelle Berufsbeistandspersonen
 üben dabei ihre Tätigkeit im Auftrage der Kinder- und Erwachsenenschutzbehörden aus und im Zentrum

@@ -18,7 +18,7 @@ Invite:
     - Key: Zeit
       Value: 18 Uhr
     - Key: Ort
-      Value: FHNW Olten, Von Rollstrasse 10, 4600 Olten
+      Value: FHNW Olten<br/>Von Rollstrasse 10<br/>4600 Olten
 Links:
     rsvp:
         text: Anmeldung

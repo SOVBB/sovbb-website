@@ -5,3 +5,11 @@ relativeURLs: true
 params:
   logo: sovbb_logo.svg
   favicon: sovbb_favicon.png
+  headercommentblock: |
+    <!-- ######################################
+    
+         Content:         SOVBB
+         Graphic Design:  https://waldluft.ch
+         Implementation:  https://oetiker.ch
+    
+         ###################################### -->

@@ -13,22 +13,7 @@ Reasons:
    und Aufgaben im Kindes- und Erwachsenenschutz
    informieren."
 Closing: Die zunehmende Fallkomplexität sowie die schwierigen personellen Entwicklungen im Kindes- und Erwachsenenschutz stellen die Berufsbeistandspersonen vor grosse Herausforderungen im Berufsalltag. Wir sind daher überzeugt, mit unseren Dienstleistungen ein wichtiges Gefäss für die im Kanton Solothurn tätigen Berufsbeistandspersonen zu bieten!
-Invite:
-  Title: Einladung zum Gründungsanlass
-  Text: |
-    Interessierte sind herzlich eingeladen,<br/>
-    am SOVBB-Gründungsanlass teilzunehmen:
-  Details:
-    - Key: Datum
-      Value: 10. Mai 2023
-    - Key: Zeit
-      Value: 18 Uhr
-    - Key: Ort
-      Value: FHNW Olten<br/>Von Rollstrasse 10<br/>4600 Olten
 Links:
-    rsvp:
-        text: Anmeldung
-        link: https://forms.gle/h4qWESLTkDcc9PoX9
     membership:
         text: Mitglied werden
         link: https://forms.gle/1vwztX83yZFRewZQA

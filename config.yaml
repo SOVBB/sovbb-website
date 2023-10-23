@@ -4,7 +4,7 @@ theme: sovbb-theme
 relativeURLs: true
 params:
   logo: sovbb_logo.svg
-  favicon: sovbb_favicon.png
+  favicon: sovbb_favicon
   headercommentblock: |
     <!-- ######################################
     

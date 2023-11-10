@@ -1,12 +1,22 @@
-- column: |
-   Der SOVBB befindet sich im Aufbau: \
-   **Wir suchen Beistandspersonen insbesondere aus
-   den Sozialregionen des Kantons Solothurn,** welche
-   sich am Aufbau des Verbandes beteiligen möchten, als
-   Vorstandsmitglied oder auch in unverbindlicherer Form
-   als aktives Mitglied, z.B. für zeitlich befristete Projekte.
-- column: |
-   **Interessiert?** Melde dich unter info@sovbb.ch – wir
-   freuen uns, dich kennenzulernen!
+# note, two spaces at the end of the line are a linebreak
+Adresse: |
+  SOVBB  
+  Mustersiedlung 1  
+  4500 Solothurn  
 
-   **Vorstandsmitglieder:** Brigitte Kissling (Präsidentin), Mirjam Bläuenstein, Eve-Anne Baltzinger, Urs Mori, Dieter Zipse, Andrea Buchs
+Datenschutz: |
+  [Datenschutzerklärung](/datenschutz)
+
+Impressum: |
+  [Impressum](/impressum)
+
+Notes: |
+  Der SOVBB befindet sich im Aufbau:
+  **Wir suchen Beistandspersonen insbesondere aus
+  den Sozialregionen des Kantons Solothurn,** welche
+  sich am Aufbau des Verbandes beteiligen möchten, als
+  Vorstandsmitglied oder auch in unverbindlicherer Form
+  als aktives Mitglied, z.B. für zeitlich befristete Projekte.
+
+  **Interessiert?** {{<nobreak>}}Melde dich unter info@sovbb.ch –{{</nobreak>}}
+  {{<nobreak>}}wir freuen uns, dich kennenzulernen!{{</nobreak>}}

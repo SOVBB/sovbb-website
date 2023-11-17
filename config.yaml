@@ -1,7 +1,6 @@
 languageCode: de-ch
 title: SOVBB
 theme: sovbb-theme
-relativeURLs: true
 params:
   logo: sovbb_logo.svg
   favicon: sovbb_favicon

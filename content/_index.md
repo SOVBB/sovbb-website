@@ -4,7 +4,7 @@ Date: 2023-03-09
 Links:
     membership:
         text: Mitglied werden
-        link: https://forms.gle/1vwztX83yZFRewZQA
+        link: /verband/anmeldung/
 ---
 Intro Paragraph der automatisch groesser geschrieben wird.
 

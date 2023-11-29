@@ -1,5 +1,5 @@
 ---
-Title: Dokumente
+Title: Statuten- und Finanzreglement
 Weight: 5
 Downloads:
     - URL: Statuten_SVBB.pdf

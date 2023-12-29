@@ -1,5 +1,5 @@
 ---
-Title: SOVBB – Solothurner Verband der Berufsbeistandspersonen
+Title: SOVBB – Solothurner Verband für Berufsbeistandspersonen
 Date: 2023-03-09
 Links:
     membership:

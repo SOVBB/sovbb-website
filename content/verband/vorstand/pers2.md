@@ -1,5 +1,5 @@
 ---
-Name: Martin Frank
-Function: Treasurer
-SortKey: Frank Martin
+Name: Eve-Anne Baltzinger
+Function: Vizepräsidentin
+SortKey: Eve-Anne Baltzinger
 ---

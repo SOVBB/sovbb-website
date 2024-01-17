@@ -1,5 +1,5 @@
 ---
-Name: Mjriam Bläuenstein
+Name: Mirjam Bläuenstein
 Function: 
-SortKey: Mjriam Bläuenstein
+SortKey: Mirjam Bläuenstein
 ---

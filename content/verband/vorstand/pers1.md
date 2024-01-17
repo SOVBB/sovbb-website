@@ -1,5 +1,5 @@
 ---
-Name: Petra Lustig
+Name: Brigitte Kissling
 Function: Präsidentin
-SortKey: Lustig Petra
+SortKey: Brigitte Kissling
 ---

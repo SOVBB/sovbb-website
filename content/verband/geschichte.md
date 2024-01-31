@@ -13,7 +13,7 @@ Was aber spornte uns an, nebst der sonst schon strengen Arbeit als Berufsbeistan
 Die Arbeit als Berufsbeistandsperson ist abwechslungsreich, fordernd und anspruchsvoll. Es heisst Menschen zwischen 0 und Heimgegangen in unterschiedlichsten Lebenslagen zu unterstützen und zu begleiten. 
 Die zunehmende Komplexität der Fragestellungen, der ausufernde administrative Apparat führt zu chronischer Arbeitsüberlastung und grosser Personalfluktuation. Die zurückgebliebenen sitzen vor einer nicht bewältigbarer Aufgabe und können oft nur das Feuer löschen. Viele fachlich versierte Berufsbeistandspersonen verlassen das Berufsfeld, weil sie frustriert über die Arbeitsbedingungen sind, kein Licht am Horizont sehen und sich damit alleine gelassen fühlen. 
 Hier möchte der Berufsverband ansetzen, indem wir
-Berufsbeistandspersonen und weitere Akteure im Kindes- und Erwachsenenschutz im Kanton Solothurn vernetzen und den fachlichen Austausch fördern,
-mitreden bei kantonalen Gesetzes- und Verordnungsentwürfen mit Relevanz für den Kindes- und Erwachsenenschutz und die Interessen unserer Mitglieder vertreten,
-Möglichkeiten zur Weiterbildung bieten und zur Stärkung der Berufsidentität beitragen, 
-indem wir über Medienkanäle das Berufsbild öffentlich stärken und über Relevanz und Aufgaben im Kindes- und Erwachsenenschutz informieren. 
+- Berufsbeistandspersonen und weitere Akteure im Kindes- und Erwachsenenschutz im Kanton Solothurn vernetzen und den fachlichen Austausch fördern,
+- mitreden bei kantonalen Gesetzes- und Verordnungsentwürfen mit Relevanz für den Kindes- und Erwachsenenschutz und die Interessen unserer Mitglieder vertreten,
+- Möglichkeiten zur Weiterbildung bieten und zur Stärkung der Berufsidentität beitragen, 
+- indem wir über Medienkanäle das Berufsbild öffentlich stärken und über Relevanz und Aufgaben im Kindes- und Erwachsenenschutz informieren. 

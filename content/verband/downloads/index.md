@@ -1,5 +1,5 @@
 ---
-Title: Statuten- und Finanzreglement
+Title: Links und Downloads
 Weight: 5
 Downloads:
     - URL: SOVBB Statuten_03.03.2023.pdf

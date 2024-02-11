@@ -7,9 +7,19 @@ Downloads:
     - URL: Finanzreglement SOVBB_03.03.2023.pdf
       Name: Finanz-, Spesen- und Entschädigungsreglement
 Links:
-    - URL: https://www.berufsbeistandschaft.ch
-      Name: Schweizerischer Verband für Berufsbeistandschaft
-    - URL: https://www.sozialberatung-so.ch
-      Name: Sozialberatung Solothurn
+    - URL: https://svbb-ascp.ch
+      Name: Schweizerischer Verband der Berufsbeistandspersonen
+    - URL: https://so.ch/verwaltung/departement-des-innern/kindes-und-erwachsenenschutz/
+      Name: Kindes- und Erwachsenenschutz Kanton Solothurn
+    - URL: https://www.kokes.ch/de/home
+      Name: Konferenz für Kindes- und Erwachsenenschutz
+    - URL: https://avenirsocial.ch
+      Name: Berufsverband Soziale Arbeit Schweiz
+    - URL: https://www.sozialinfo.ch
+      Name: Fachportal Sozialinfo.ch – Orientierung im Sozialwesen Schweiz
+    - URL: https://www.kinderschutz.ch
+      Name: Kindesschutz Schweiz
+    - URL: https://www.quality4children.ch
+      Name: Quality4children
 ---
 Der Solothurnische Verband für Berufsbeistandspersonen stellt hier Dokumente zum Download zur Verfügung.

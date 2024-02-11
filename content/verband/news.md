@@ -10,7 +10,7 @@ Die erste ordentliche Mitgliederversammlung des SOVBB mit anschliessender Weiter
 
 ## Anerkennungsverfahren für Berufsbeiständin/Berufsbeistand SVBB ist gestartet
 
-Der Schweizerischer Verband der Berufsbeistandspersonen hat das Verfahren zur Erlangung des Anerkennungttitels "Berufsbeistandsperson SVBB" gestartet.
+Der Schweizerischer Verband der Berufsbeistandspersonen hat das Anerkennungsverfahren zur Erlangung des Titels "Berufsbeistandsperson SVBB" gestartet.
 
 
 

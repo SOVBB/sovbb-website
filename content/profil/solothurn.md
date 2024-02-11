@@ -8,3 +8,6 @@ Die Berufsbeistandspersonen sind Fachpersonen im Bereich der Sozialen Arbeit. Si
 Die Berufsbeistandspersonen arbeiten eng mit anderen Fachpersonen zusammen, wie zum Beispiel Ärzten, Psychologen und Anwälten. Sie sind in der Regel bei einer öffentlichen oder privaten Institution angestellt und unterliegen der Schweigepflicht.
 
 Um Berufsbeistandsperson zu werden, ist in der Regel ein Studium der Sozialen Arbeit oder eine vergleichbare Ausbildung erforderlich. Zudem sind regelmäßige Fortbildungen notwendig, um auf dem neuesten Stand zu bleiben.
+
+- URL https://bgs.so.ch/app/de/texts_of_law/831.1
+- Name: Sozialgesetz

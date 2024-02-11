@@ -5,6 +5,8 @@ Weight: 3
 Links:
     - URL: https://bgs.so.ch/app/de/texts_of_law/831.1
       Name: Sozialgesetz Kanton Solothurn
+    - URL: https://bgs.so.ch/app/de/texts_of_law/211.1
+      Name: Gesetz über die Einführung des Schweizerischen Zivilgesetzbuches  
       
 ---
 

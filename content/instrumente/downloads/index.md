@@ -1,11 +1,6 @@
 ---
 Title: Dokumente und Links
 Weight: 3
-Downloads:
-    - URL: Statuten_SVBB.pdf
-      Name: Statuten
-    - URL: Beitragsreglement_SVBB.pdf
-      Name: Beitragsreglement
 Links:
     - URL: https://svbb-ascp.ch
       Name: Schweizerischer Verband der Berufsbeistandspersonen

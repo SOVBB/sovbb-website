@@ -2,7 +2,7 @@
 Title: Statuten- und Finanzreglement
 Weight: 5
 Downloads:
-    - URL: Statuten_SVBB.pdf
+    - URL: SOVBB Statuten_03.03.2023.pdf
       Name: Statuten
     - URL: Beitragsreglement_SVBB.pdf
       Name: Beitragsreglement

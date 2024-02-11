@@ -19,7 +19,7 @@ Links:
       Name: Fachportal Sozialinfo.ch – Orientierung im Sozialwesen Schweiz
     - URL: https://www.kinderschutz.ch
       Name: Kindesschutz Schweiz
-    - URL: https://www.quality4children.ch
-      Name: Quality4children
+    - URL: https://www.integras.ch
+      Name: Integras - Fachverband Sozial- und Sonderpädagogik 
 ---
-Der Solothurnische Verband für Berufsbeistandspersonen stellt hier Dokumente zum Download zur Verfügung.
+Links und Dokumente zum Download.

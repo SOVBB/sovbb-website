@@ -6,8 +6,7 @@ Links:
         text: Mitglied werden
         link: /verband/anmeldung/
 ---
-**Der SOVBB** möchte im Kanton Solothurn auf verschiedenen Ebenen einen Beitrag zur Verbesserung der Arbeitssituation der
-Berufsbeistandspersonen sowie zur Qualitätssicherung und Entwicklung im Kindes- und Erwachsenenschutz leisten.
+**Der SOVBB** möchte im Kanton Solothurn auf verschiedenen Ebenen einen Beitrag zur Verbesserung der Arbeitssituation der Berufsbeistandspersonen sowie zur Qualitätssicherung und Entwicklung im Kindes- und Erwachsenenschutz leisten.
 
 Die zunehmende Fallkomplexität sowie die schwierigen personellen Entwicklungen im Kindes- und Erwachsenenschutz stellen die Berufsbeistandspersonen vor grosse Herausforderungen im Berufsalltag. 
 

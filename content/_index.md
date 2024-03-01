@@ -11,6 +11,7 @@ Berufsbeistandspersonen sowie zur Qualitätssicherung und Entwicklung im Kindes-
 
 Die zunehmende Fallkomplexität sowie die schwierigen personellen Entwicklungen im Kindes- und Erwachsenenschutz stellen die Berufsbeistandspersonen vor grosse Herausforderungen im Berufsalltag. 
 
+
 *Der SOVBB...*
    - *vernetzt* Berufsbeistandspersonen und weitere Akteure im Kindes- und Erwachsenenschutz im Kanton Solothurn und fördert den fachlichen Austausch.
    - *spricht mit* bei kantonalen Gesetzes- und Verordnungsentwürfen mit Relevanz für den Kindes- und Erwachsenenschutz und vertritt die Interessen seiner Mitglieder.

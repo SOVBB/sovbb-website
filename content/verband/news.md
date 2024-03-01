@@ -1,12 +1,12 @@
 ---
-Title: News
+Title: Aktuelles
 Weight: 1
 ---
-Aktuelles:
 
-## 1. Mitgliederversammlung -- 21. März 2024
 
-Die erste ordentliche Mitgliederversammlung des SOVBB mit anschliessender Weiterbildungsveranstaltung findet in Olten statt.
+## 1. Generalversammlung des SOVBB am 21. März 2024 im Hotel Arte in Olten
+
+Die erste Generalversammlung des SOVBB mit anschliessender Weiterbildungsveranstaltung findet im Hotel Arte in Olten statt.
 
 ## Anerkennungsverfahren für Berufsbeiständin/Berufsbeistand SVBB ist gestartet
 

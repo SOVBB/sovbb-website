@@ -1,6 +1,6 @@
 ---
 Title: Geschichte
-Weight: 2
+Weight: 1
 ---
 
 

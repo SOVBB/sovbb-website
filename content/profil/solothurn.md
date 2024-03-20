@@ -1,5 +1,5 @@
 ---
-Title: Im Kanton Solothurn
+Title: Rechtsgrundlagen Kt. Solothurn
 Weight: 3
 
 Links:

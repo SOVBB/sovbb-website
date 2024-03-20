@@ -1,5 +1,5 @@
 ---
-Title: Verschiedenes
+Title: Kantonale Organisationen
 Weight: 3
 ---
 

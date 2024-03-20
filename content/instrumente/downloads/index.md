@@ -1,5 +1,5 @@
 ---
-Title: Dokumente und Links
+Title: Erwachsenenschutz
 Weight: 3
 Links:
     - URL: https://svbb-ascp.ch

@@ -1,5 +1,5 @@
 ---
-Title: Berufssstand in der Schweiz
+Title: Berufssstand im Kt. Solothurn
 Weight: 1
 ---
 

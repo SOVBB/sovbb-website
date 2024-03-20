@@ -1,6 +1,6 @@
 ---
 Title: Test
-Weight: 1
+Weight: 6
 ---
 
 ## 1. Bla bla

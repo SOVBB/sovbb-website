@@ -1,5 +1,5 @@
 ---
-Title: KOKES
+Title: Kindesschutz
 Weight: 1
 Links:
     - URL: https://www.kokes.ch

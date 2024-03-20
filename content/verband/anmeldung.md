@@ -1,6 +1,6 @@
 ---
 Title: Anmeldung
-Weight: 4
+Weight: 3
 ---
 
 Mitglied werden beim SOVBB.

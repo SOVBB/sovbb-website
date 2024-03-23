@@ -5,5 +5,5 @@ Hero: agenda
 Weight: 4
 ---
 
-Aktuelles...
+
 

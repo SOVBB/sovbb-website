@@ -5,5 +5,5 @@ Hero: agenda
 Weight: 4
 ---
 
-Die Agenda des SOVBB.
+Aktuelles...
 

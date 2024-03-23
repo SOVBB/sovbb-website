@@ -1,6 +1,6 @@
 ---
 Title: Kindesschutz
-Weight: 1
+Weight: 2
 Links:
     - URL: https://www.kinderschutz.ch
       Name: Kindesschutz Schweiz

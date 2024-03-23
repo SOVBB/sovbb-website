@@ -1,6 +1,6 @@
 ---
 Title: Erwachsenenschutz
-Weight: 3
+Weight: 1
 Links:
     - URL: https://svbb-ascp.ch
       Name: Schweizerischer Verband der Berufsbeistandspersonen

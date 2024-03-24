@@ -2,10 +2,12 @@
 Title: Impressum
 HideInMenu: true
 ---
-
-
 **Kontaktadresse**
-
+SOVBB
+c/o SozialatelierPlus
+Solothurnerstrasse 235  
+4600 Olten
+info@sovbb.ch
 
 **Haftungsausschluss**
 Der SOVBB übernimmt keinerlei Gewähr hinsichtlich der inhaltlichen Richtigkeit, Genauigkeit, Aktualität, Zuverlässigkeit und Vollständigkeit der Informationen.

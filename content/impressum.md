@@ -3,6 +3,10 @@ Title: Impressum
 HideInMenu: true
 ---
 
+
+**Kontaktadresse**
+
+
 **Haftungsausschluss**
 Der SOVBB übernimmt keinerlei Gewähr hinsichtlich der inhaltlichen Richtigkeit, Genauigkeit, Aktualität, Zuverlässigkeit und Vollständigkeit der Informationen.
 Haftungsansprüche gegen den SOVBB wegen Schäden materieller oder immaterieller Art, welche aus dem Zugriff oder der Nutzung bzw. Nichtnutzung der veröffentlichten Informationen, durch Missbrauch der Verbindung oder durch technische Störungen entstanden sind, werden ausgeschlossen.

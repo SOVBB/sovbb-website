@@ -3,7 +3,6 @@ Title: Geschichte
 Weight: 1
 ---
 
-
 Dieter Zipse und Brigitte Kissling lernten den Mehrwert eines kantonalen Berufsverbandes während ihren Anstellungen in Kindes- und Erwachsenenschutzdiensten im Kanton Aargau kennen. Dies war der Anlass, sich auch über die Gründung eines Berufsverbandes im Kanton Solothurn Gedanken zu machen.
 
 Im November 2021 war es dann soweit Dieter Zispe, Mirjam Bläuenstein und Brigitte Kissling legten dem Grundstein, quasi den Prä-Verband des jetzigen SOVBB. 1 ½ Jahre dauerte es, bis am 26. Juni 2023 der offizielle Gründungsanlass stattfand. Wie bei der Werdung eines Kindes, musste auch der Solothurner Berufsverband zuerst Gestalt finden.

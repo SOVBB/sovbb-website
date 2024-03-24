@@ -1,7 +1,12 @@
 ---
-Title: Statuten und Reglemente
+Title: Statuten, Reglemente und Protokolle
 Weight: 4
-Downloads:
+Statuten und Reglemente:
+    - URL: SOVBB Statuten_03.03.2023.pdf
+      Name: Statuten
+    - URL: Finanzreglement SOVBB_03.03.2023.pdf
+      Name: Finanz-, Spesen- und Entschädigungsreglement
+Protokolle:
     - URL: SOVBB Statuten_03.03.2023.pdf
       Name: Statuten
     - URL: Finanzreglement SOVBB_03.03.2023.pdf

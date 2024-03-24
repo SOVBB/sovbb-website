@@ -7,5 +7,3 @@ Statuten und Reglemente:
     - URL: Finanzreglement SOVBB_03.03.2023.pdf
       Name: Finanz-, Spesen- und Entschädigungsreglement     
 ---
-
-Protokolle

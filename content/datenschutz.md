@@ -17,10 +17,10 @@ Google Forms
 
 Bei Fragen oder Anliegen zum Schutz Ihrer Daten durch uns erreichen Sie uns jederzeit per E-Mail unter brigitte.kissling@sozialatelierplus.ch. Verantwortlich für die Datenbearbeitungen, die über diese Website erfolgen, ist:
 
-SOVBB\
-c/o SozialatelierPlus\
-4600 Olten\
-Schweiz\
+SOVBB  
+c/o SozialatelierPlus  
+4600 Olten  
+Schweiz  
 info@sovbb.ch
 
 Datenschutzverantwortliche Person: 
@@ -34,12 +34,12 @@ brigitte.kissling@sozialatelierplus.ch
 
 In erster Linie bearbeiten wir Personendaten, die Sie uns übermitteln oder die wir beim Betrieb unserer Website sammeln. Unter Umständen erhalten wir Personendaten über Sie auch von Dritten. Das können folgende Kategorien sein:
 
-Personenstammdaten (Name, Adresse, Geburtsdaten, etc.); 
-Kontaktdaten (Handynummer, E-Mailadresse, etc.); 
-Finanzdaten (bspw. Kontoangaben); 
-Onlinekennungen (bspw. Cookie-Kennung, IP-Adressen); 
-Standort- und Verkehrsdaten; 
-Ton- und Bildaufnahmen; 
+Personenstammdaten (Name, Adresse, Geburtsdaten, etc.);  
+Kontaktdaten (Handynummer, E-Mailadresse, etc.);  
+Finanzdaten (bspw. Kontoangaben);  
+Onlinekennungen (bspw. Cookie-Kennung, IP-Adressen);  
+Standort- und Verkehrsdaten;  
+Ton- und Bildaufnahmen;  
 besonders schützenswerte Daten (bspw. biometrische Daten oder Angaben über Ihre Gesundheit).
 
 3.2 Unter welchen Voraussetzungen bearbeiten wir Ihre Daten?
@@ -64,10 +64,10 @@ a. Grundsatz
 
 Wir sind unter Umständen darauf angewiesen, die Dienste Dritter oder von verbundenen Unternehmen in Anspruch zu nehmen und diese mit der Verarbeitung Ihrer Daten zu beauftragen (sog. Auftragsverarbeiter). Kategorien der Empfänger sind namentlich:
 
-Buchhaltung, Treuhand und Revisionsunternehmen; 
-Beratungsunternehmen (Rechtsberatung, Steuern, etc.); 
-IT-Dienstleister (Webhosting, Support, Clouddienste, Webseitengestaltung, etc.); 
-Zahlungsdienstleister; 
+Buchhaltung, Treuhand und Revisionsunternehmen;  
+Beratungsunternehmen (Rechtsberatung, Steuern, etc.);  
+IT-Dienstleister (Webhosting, Support, Clouddienste, Webseitengestaltung, etc.);  
+Zahlungsdienstleister;  
 Anbieter von Tracking-, Conversion- und Werbedienstleistungen.
 
 Wir stellen sicher, dass diese Dritten und unsere verbundenen Unternehmen die Voraussetzungen des Datenschutzes einhalten und Ihre personenbezogenen Daten vertraulich behandeln.
@@ -137,12 +137,12 @@ Wir können diese Datenschutzerklärung jederzeit ändern. Die Änderungen werde
 Welche Informationen erhalten wir und wie nutzen wir sie?
 Indem Sie besuchen, werden auf unseren Servern oder auf Servern von Dienstleistungen und Produkten, die wir beziehen und / oder installiert haben, bestimmte Daten automatisch zu Zwecken der Systemadministration, für statistische oder für Sicherungszwecke oder für Trackingzwecke gespeichert. Es handelt sich dabei um:
 
-den Namen Ihres Internetserviceproviders; 
-Ihre IP-Adresse (unter Umständen); 
-die Version Ihrer Browser-Software; 
-das Betriebssystem des Rechners mit dem auf die URL zugegriffen wird; 
-das Datum und die Uhrzeit des Zugriffs; 
-die Webseite, von der aus Sie URL besuchen; 
+den Namen Ihres Internetserviceproviders;  
+Ihre IP-Adresse (unter Umständen);  
+die Version Ihrer Browser-Software;  
+das Betriebssystem des Rechners mit dem auf die URL zugegriffen wird;  
+das Datum und die Uhrzeit des Zugriffs;  
+die Webseite, von der aus Sie URL besuchen;  
 die Suchwörter die Sie benutzt haben, um die URL finden.
 
 Weshalb dürfen wir diese Daten bearbeiten?

@@ -17,4 +17,4 @@ Reasons:
 
 Die zunehmende Fallkomplexität sowie die schwierigen personellen Entwicklungen im Kindes- und Erwachsenenschutz stellen die Berufsbeistandspersonen vor grosse Herausforderungen im Berufsalltag. 
 
-{{< wl-list "Reasons" >}}
+{{< sovbb-list "Reasons" >}}

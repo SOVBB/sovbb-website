@@ -20,4 +20,4 @@ Die Arbeit als Berufsbeistandsperson ist abwechslungsreich, fordernd und anspruc
 Die zunehmende Komplexität der Fragestellungen, der ausufernde administrative Apparat führt zu chronischer Arbeitsüberlastung und grosser Personalfluktuation. Die zurückgebliebenen sitzen vor einer nicht bewältigbarer Aufgabe und können oft nur das Feuer löschen. Viele fachlich versierte Berufsbeistandspersonen verlassen das Berufsfeld, weil sie frustriert über die Arbeitsbedingungen sind, kein Licht am Horizont sehen und sich damit alleine gelassen fühlen. 
 Hier möchte der Berufsverband ansetzen,
 
-{{< wl-list Actions >}}
+{{< sovbb-list Actions >}}

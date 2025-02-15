@@ -33,7 +33,7 @@ jobs:
       HUGO_VERSION: 0.124.1
     steps:
       - name: Cache Hugo Deb
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         id: cache-hugo
         with:
           path: ${{ runner.temp }}
@@ -61,7 +61,7 @@ jobs:
           HUGO_ENV: production
         run: hugo
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
@@ -75,4 +75,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
